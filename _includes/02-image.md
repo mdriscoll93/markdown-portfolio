@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![gnu aint dead](https://github.com/mdriscoll93/markdown-portfolio/blob/add-images-links/_includes/gnu-steal-ur-face.png)
